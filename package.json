@@ -1,0 +1,22 @@
+{
+  "name": "@kishoret99/nodets",
+  "version": "1.0.0",
+  "description": "cli to clone ts starter project which accepts folder argument",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kishore",
+  "license": "ISC",
+  "bin": {
+    "nodets": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kishoret99/nodets.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Kishoret99/nodets/issues"
+  },
+  "homepage": "https://github.com/Kishoret99/nodets#readme"
+}
